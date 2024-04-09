@@ -1,0 +1,12 @@
+type: marketplace
+title: faangX KTP (3)
+language: English
+summary: Learn Kotlin to become a SWE
+programming_language: Kotlin
+content:
+  - ProgrammingFundamentals
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_17
+vendor:
+  name: Lavish Swarnkar
