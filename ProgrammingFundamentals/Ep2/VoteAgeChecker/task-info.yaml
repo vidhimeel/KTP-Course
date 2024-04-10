@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: XD6/cN/jAp2oALLsbdkzbGGGuaUyNYMhdRPMSEmLgiX4XRI5PEV1rNmZdA91DcoUR9XcxyuAo+PqqHMb+IhGPZ5NIz/snri1D8/wY5bx+Pw=
         selected: false
         status: Unchecked
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05Yrogh32yAlhg78x0ycY7Efq4JP+iCLIsYLkmWvMQ843qQ9aYFS6SWX8zn4UJuyDacFoO+D0rjQ3DhZxt4rASnH+bIOKx8GrBCENTNSRbp4DSFXPVzWmj/duSuWYZc8h14Tz4nmvPfI2O+NkT19WJpAVh7HA3Wum6MUX2cqEoUkGwqyMe7tEMZF1JJ7sgMEZlLhg==
     learner_created: false
   - name: test/Tests.kt
