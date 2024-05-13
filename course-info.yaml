@@ -7,7 +7,7 @@ content:
   - ProgrammingFundamentals
 mode: Study
 tags:
-  - v2.0
+  - v2.1
 environment_settings:
   jvm_language_level: JDK_17
 solutions_hidden: true

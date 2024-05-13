@@ -129,7 +129,7 @@ configure(subprojects) {
     dependencies {
         implementation(compose.desktop.currentOs)
         implementation("org.jetbrains.compose.material3:material3-desktop:1.6.0")
-        implementation("com.github.LavishSwarnkar:faangX-KTP-Apps:1.15")
+        implementation("com.github.LavishSwarnkar:faangX-KTP-Apps:1.17")
     }
 
     java {

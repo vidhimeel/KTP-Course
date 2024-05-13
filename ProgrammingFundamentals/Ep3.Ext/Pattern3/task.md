@@ -3,11 +3,11 @@
 Define the required function to print the following pattern :
 
 ```text
-*----
--*---
---*--
----*-
-----*
+----*----
+---*-*---
+--*---*--
+-*-----*-
+*-------*
 ```
 
 <div class="hint">
