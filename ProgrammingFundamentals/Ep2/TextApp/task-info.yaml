@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: rPfwbHgdmg2wTNLXE+vL21bidj9nOGojFdcSevbbJ/o=
         selected: false
         status: Unchecked
+        is_visible: false
     encrypted_text: 7MBEVo9g9k8GnP4uM05YrkvQThWqQQe8oCYRVPues0d7DMixxKZ0Q4pjfATKxahk/swZ9NJwVQ8Seb1QXGmAWeNuUNOs7en0/zxUccZLznm3hkYVpm7kepDFW2yz/7eIrwyC29IRIMClL2HXnHDM/6/7tZ8ap6r17hE4ZnT9AR4=
     learner_created: false
   - name: test/Tests.kt

@@ -4,6 +4,6 @@ fun isLeapYear(year: Int): Boolean {
     TODO()
 }
 
-fun LeapYearCheckerDemo() {
+fun main() {
     LeapYearCheckerMiniApp(::isLeapYear)
 }
