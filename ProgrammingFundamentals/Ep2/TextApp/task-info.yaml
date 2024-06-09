@@ -12,14 +12,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: rPfwbHgdmg2wTNLXE+vL21bidj9nOGojFdcSevbbJ/o=
         selected: false
-        status: Solved
+        status: Failed
         is_visible: false
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Solved
+status: Failed
 feedback:
-  message: Congratulations!
-  time: "Sun, 09 Jun 2024 06:48:31 UTC"
+  message: Required text is not returned by the function
+  time: "Sun, 09 Jun 2024 06:52:05 UTC"
 record: -1
