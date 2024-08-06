@@ -2,7 +2,7 @@ import com.faangx.ktp.basics.FactorialCalculatorMiniApp
 
 fun factorialOf(x: Long): Long {
     var factorial = 1L
-    for (i in 2L..x){
+    for (i in 2..x){
         factorial *= i
     }
     return factorial
@@ -11,7 +11,7 @@ fun factorialOf(x: Long): Long {
 fun permutationsOf(n: Long, r: Long): Long {
     var permutations = 1L
     for (i in (n - r + 1)..n) {
-        permutations *= 1
+        permutations *= i
     }
     return permutations
 }
