@@ -3,7 +3,7 @@ import com.faangx.ktp.basics.FactorCalculatorMiniApp
 fun printFactorsOf(num: Int) {
     for (i in 1..num){
         if (num % i == 0){
-            println("$i,")
+            print("$i, ")
         }
     }
 }
